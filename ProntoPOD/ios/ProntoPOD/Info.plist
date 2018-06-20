@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>POD</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Proxima-Nova-Semibold.ttf</string>
+		<string>ProximaNova Alt Black-webfont.ttf</string>
+		<string>ProximaNova Alt Bold-webfont.ttf</string>
+		<string>ProximaNova Alt Condensed Semibold-webfont.ttf</string>
+		<string>ProximaNova Alt Regular-webfont.ttf</string>
+		<string>ProximaNova ScOsf Thin-webfont.ttf</string>
+		<string>ProximaNova Semibold-webfont.ttf</string>
+		<string>ProximaNova Thin-webfont.ttf</string>
+		<string>proximanovalight.ttf</string>
+		<string>ProximaNovaRegular.ttf</string>
+		<string>proxima-nova-alt-black-webfont.ttf</string>
+		<string>proxima-nova-alt-bold-webfont.ttf</string>
+		<string>proxima-nova-alt-condensed-semibold-webfont.ttf</string>
+		<string>proxima-nova-alt-regular-webfont.ttf</string>
+		<string>proxima-nova-light.ttf</string>
+		<string>proxima-nova-regular.ttf</string>
+		<string>proxima-nova-scosf-thin-webfont.ttf</string>
+		<string>proxima-nova-semibold-webfont.ttf</string>
+		<string>proxima-nova-semibold.ttf</string>
+		<string>proxima-nova-thin-webfont.ttf</string>
+	</array>
+</dict>
+</plist>
