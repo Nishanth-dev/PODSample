@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -12,6 +13,9 @@
 		00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* ProntoPODTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ProntoPODTests.m */; };
+		03C96F2A424F4BC88C4CBCDF /* (null) in Resources */ = {isa = PBXBuildFile; };
+		0D139FCFC5CE4241B1ED7F05 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		117DD3B573914EF4B2F0A50D /* (null) in Resources */ = {isa = PBXBuildFile; };
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
 		139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
@@ -34,31 +38,27 @@
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* ProntoPODTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ProntoPODTests.m */; };
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
+		2E5C4707D6D2470FBE6CA2DA /* (null) in Resources */ = {isa = PBXBuildFile; };
+		32F89ABCCD2B4391ABE55F18 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		5191F14DB2194102AA224422 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		534591C9D0044D26A8AEE74C /* (null) in Resources */ = {isa = PBXBuildFile; };
+		5372FB739CF541249A663398 /* (null) in Resources */ = {isa = PBXBuildFile; };
 		5A7BDB95C3A0B8E55F6AF043 /* libPods-ProntoPOD.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 90D086E81AA53EFBF3055625 /* libPods-ProntoPOD.a */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
+		615AD9FE75894E20830D5ED6 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		6BE83B712E74419CA927E004 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		6EC5D143B3AC4F8787AD252D /* (null) in Resources */ = {isa = PBXBuildFile; };
+		7ADCFC4D48644F699DAC7E4A /* (null) in Resources */ = {isa = PBXBuildFile; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		97C75CBF89354F55AB785DD7 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		9C6AE573E8AB46F69FA28F67 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		A40B4526572C460BA3C8E37D /* (null) in Resources */ = {isa = PBXBuildFile; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-		950DBC49203947F295DBB00F /* libAirMaps.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 30F084FBA58449D2AB34A495 /* libAirMaps.a */; };
-		97C75CBF89354F55AB785DD7 /* Proxima-Nova-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F97E59ED302A4218B0284498 /* Proxima-Nova-Semibold.ttf */; };
-		BF78329C88674A4C9643E06B /* ProximaNova Alt Black-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0BBDAB64C82C4A31B7609B13 /* ProximaNova Alt Black-webfont.ttf */; };
-		2E5C4707D6D2470FBE6CA2DA /* ProximaNova Alt Bold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AF05830626D045BD81F39418 /* ProximaNova Alt Bold-webfont.ttf */; };
-		F711CFE8FD554796B9583D3A /* ProximaNova Alt Condensed Semibold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2ACF920D04914604A4A225EB /* ProximaNova Alt Condensed Semibold-webfont.ttf */; };
-		FF01734D45D24CA9BCFF18DA /* ProximaNova Alt Regular-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F49691DB191406C8C6809F4 /* ProximaNova Alt Regular-webfont.ttf */; };
-		117DD3B573914EF4B2F0A50D /* ProximaNova ScOsf Thin-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40C821BC2BD54E2DB6540501 /* ProximaNova ScOsf Thin-webfont.ttf */; };
-		6BE83B712E74419CA927E004 /* ProximaNova Semibold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7BD5CE3C716549DAB1C25393 /* ProximaNova Semibold-webfont.ttf */; };
-		5191F14DB2194102AA224422 /* ProximaNova Thin-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9961AB68C26B4E9DA8E68E03 /* ProximaNova Thin-webfont.ttf */; };
-		03C96F2A424F4BC88C4CBCDF /* proximanovalight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 313E9EECAD7047F7938FAE36 /* proximanovalight.ttf */; };
-		534591C9D0044D26A8AEE74C /* ProximaNovaRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93EF6A34736C4929AC94A728 /* ProximaNovaRegular.ttf */; };
-		32F89ABCCD2B4391ABE55F18 /* proxima-nova-alt-black-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 21A17312716F4F7DBC8A7DF4 /* proxima-nova-alt-black-webfont.ttf */; };
-		7ADCFC4D48644F699DAC7E4A /* proxima-nova-alt-bold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3194FFBF0374706981BB3B5 /* proxima-nova-alt-bold-webfont.ttf */; };
-		5372FB739CF541249A663398 /* proxima-nova-alt-condensed-semibold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1297258A89264661BFDE7F63 /* proxima-nova-alt-condensed-semibold-webfont.ttf */; };
-		C4D400F9031C49CFB4AC3247 /* proxima-nova-alt-regular-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D165473A51B44CDAB1A6A39 /* proxima-nova-alt-regular-webfont.ttf */; };
-		B893FEF779DC40FC80B67A4D /* proxima-nova-light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F020C7732B14C058A2B5173 /* proxima-nova-light.ttf */; };
-		0D139FCFC5CE4241B1ED7F05 /* proxima-nova-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A14E5868AE648C397F31F9C /* proxima-nova-regular.ttf */; };
-		6EC5D143B3AC4F8787AD252D /* proxima-nova-scosf-thin-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 512074AC19514C5CAAFFB638 /* proxima-nova-scosf-thin-webfont.ttf */; };
-		A40B4526572C460BA3C8E37D /* proxima-nova-semibold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9752068E17FC400FADF853C3 /* proxima-nova-semibold-webfont.ttf */; };
-		9C6AE573E8AB46F69FA28F67 /* proxima-nova-semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEDD163D99C24B31987B7105 /* proxima-nova-semibold.ttf */; };
-		615AD9FE75894E20830D5ED6 /* proxima-nova-thin-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3B84A1F6F9C4DFCB5F1576C /* proxima-nova-thin-webfont.ttf */; };
+		B893FEF779DC40FC80B67A4D /* (null) in Resources */ = {isa = PBXBuildFile; };
+		BF78329C88674A4C9643E06B /* (null) in Resources */ = {isa = PBXBuildFile; };
+		C4D400F9031C49CFB4AC3247 /* (null) in Resources */ = {isa = PBXBuildFile; };
+		F711CFE8FD554796B9583D3A /* (null) in Resources */ = {isa = PBXBuildFile; };
+		FF01734D45D24CA9BCFF18DA /* (null) in Resources */ = {isa = PBXBuildFile; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -583,7 +583,6 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
-				E65BF9EB0A674287920E595A /* AirMaps.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -735,11 +734,11 @@
 					};
 					13B07F861A680F5B00A75B9A = {
 						DevelopmentTeam = PPFYHL7736;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					2D02E48F1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -1095,26 +1094,26 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				97C75CBF89354F55AB785DD7 /* Proxima-Nova-Semibold.ttf in Resources */,
-				BF78329C88674A4C9643E06B /* ProximaNova Alt Black-webfont.ttf in Resources */,
-				2E5C4707D6D2470FBE6CA2DA /* ProximaNova Alt Bold-webfont.ttf in Resources */,
-				F711CFE8FD554796B9583D3A /* ProximaNova Alt Condensed Semibold-webfont.ttf in Resources */,
-				FF01734D45D24CA9BCFF18DA /* ProximaNova Alt Regular-webfont.ttf in Resources */,
-				117DD3B573914EF4B2F0A50D /* ProximaNova ScOsf Thin-webfont.ttf in Resources */,
-				6BE83B712E74419CA927E004 /* ProximaNova Semibold-webfont.ttf in Resources */,
-				5191F14DB2194102AA224422 /* ProximaNova Thin-webfont.ttf in Resources */,
-				03C96F2A424F4BC88C4CBCDF /* proximanovalight.ttf in Resources */,
-				534591C9D0044D26A8AEE74C /* ProximaNovaRegular.ttf in Resources */,
-				32F89ABCCD2B4391ABE55F18 /* proxima-nova-alt-black-webfont.ttf in Resources */,
-				7ADCFC4D48644F699DAC7E4A /* proxima-nova-alt-bold-webfont.ttf in Resources */,
-				5372FB739CF541249A663398 /* proxima-nova-alt-condensed-semibold-webfont.ttf in Resources */,
-				C4D400F9031C49CFB4AC3247 /* proxima-nova-alt-regular-webfont.ttf in Resources */,
-				B893FEF779DC40FC80B67A4D /* proxima-nova-light.ttf in Resources */,
-				0D139FCFC5CE4241B1ED7F05 /* proxima-nova-regular.ttf in Resources */,
-				6EC5D143B3AC4F8787AD252D /* proxima-nova-scosf-thin-webfont.ttf in Resources */,
-				A40B4526572C460BA3C8E37D /* proxima-nova-semibold-webfont.ttf in Resources */,
-				9C6AE573E8AB46F69FA28F67 /* proxima-nova-semibold.ttf in Resources */,
-				615AD9FE75894E20830D5ED6 /* proxima-nova-thin-webfont.ttf in Resources */,
+				97C75CBF89354F55AB785DD7 /* (null) in Resources */,
+				BF78329C88674A4C9643E06B /* (null) in Resources */,
+				2E5C4707D6D2470FBE6CA2DA /* (null) in Resources */,
+				F711CFE8FD554796B9583D3A /* (null) in Resources */,
+				FF01734D45D24CA9BCFF18DA /* (null) in Resources */,
+				117DD3B573914EF4B2F0A50D /* (null) in Resources */,
+				6BE83B712E74419CA927E004 /* (null) in Resources */,
+				5191F14DB2194102AA224422 /* (null) in Resources */,
+				03C96F2A424F4BC88C4CBCDF /* (null) in Resources */,
+				534591C9D0044D26A8AEE74C /* (null) in Resources */,
+				32F89ABCCD2B4391ABE55F18 /* (null) in Resources */,
+				7ADCFC4D48644F699DAC7E4A /* (null) in Resources */,
+				5372FB739CF541249A663398 /* (null) in Resources */,
+				C4D400F9031C49CFB4AC3247 /* (null) in Resources */,
+				B893FEF779DC40FC80B67A4D /* (null) in Resources */,
+				0D139FCFC5CE4241B1ED7F05 /* (null) in Resources */,
+				6EC5D143B3AC4F8787AD252D /* (null) in Resources */,
+				A40B4526572C460BA3C8E37D /* (null) in Resources */,
+				9C6AE573E8AB46F69FA28F67 /* (null) in Resources */,
+				615AD9FE75894E20830D5ED6 /* (null) in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1276,9 +1275,17 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = ProntoPODTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1286,14 +1293,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProntoPOD.app/ProntoPOD";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
-				);
 			};
 			name = Debug;
 		};
@@ -1303,10 +1302,18 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = PPFYHL7736;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = ProntoPODTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1314,14 +1321,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProntoPOD.app/ProntoPOD";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
-				);
 			};
 			name = Release;
 		};
@@ -1330,10 +1329,15 @@
 			baseConfigurationReference = DDD90986494C49FBEA2CD73F /* Pods-ProntoPOD.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = PPFYHL7736;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = ProntoPOD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1341,15 +1345,11 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.devggktech.reactjs.native.example.ProntoPOD;
+				PRODUCT_BUNDLE_IDENTIFIER = com.devggktech.ProntoPOD;
 				PRODUCT_NAME = ProntoPOD;
 				PROVISIONING_PROFILE = "6979080e-0fe4-4737-a1d3-3829e3c5f2c3";
 				PROVISIONING_PROFILE_SPECIFIER = DevWildCardProvisioningProfile;
 				VERSIONING_SYSTEM = "apple-generic";
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
-				);
 			};
 			name = Debug;
 		};
@@ -1359,9 +1359,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PPFYHL7736;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = ProntoPOD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1369,14 +1373,11 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.devggktech.reactjs.native.example.ProntoPOD;
+				PRODUCT_BUNDLE_IDENTIFIER = com.devggktech.ProntoPOD;
 				PRODUCT_NAME = ProntoPOD;
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "6979080e-0fe4-4737-a1d3-3829e3c5f2c3";
+				PROVISIONING_PROFILE_SPECIFIER = DevWildCardProvisioningProfile;
 				VERSIONING_SYSTEM = "apple-generic";
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
-				);
 			};
 			name = Release;
 		};
@@ -1389,28 +1390,31 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CODE_SIGN_STYLE = Manual;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = "ProntoPOD-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				OTHER_LDFLAGS = (
-					"-ObjC",
-					"-lc++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ProntoPOD-tvOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.2;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.devggktech.ProntoPOD-tvOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
 			};
 			name = Debug;
 		};
@@ -1423,28 +1427,33 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = PPFYHL7736;
 				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = "ProntoPOD-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				OTHER_LDFLAGS = (
-					"-ObjC",
-					"-lc++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ProntoPOD-tvOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.2;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.devggktech.ProntoPOD-tvOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "fc8cba97-edbf-4766-ae2e-485fe3854772";
+				PROVISIONING_PROFILE_SPECIFIER = DistWildCardProvisioningProfile;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
 			};
 			name = Release;
 		};
@@ -1459,8 +1468,16 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = "ProntoPOD-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1470,14 +1487,6 @@
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProntoPOD-tvOS.app/ProntoPOD-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
-				);
 			};
 			name = Debug;
 		};
@@ -1492,8 +1501,16 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+				);
 				INFOPLIST_FILE = "ProntoPOD-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1503,14 +1520,6 @@
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProntoPOD-tvOS.app/ProntoPOD-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
-				);
 			};
 			name = Release;
 		};
